@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning JavaScript
  
-- 🧑‍🎓 I’m an Undergraduate at University of Sri Jayewardenepura a
+- 🧑‍🎓 I’m an Undergraduate at University of Sri Jayewardenepura
 
 - 💬 Ask me about **Java**
 
