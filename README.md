@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Prageeth kaushalya</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prageeth23&label=Profile%20views&color=0e75b6&style=flat" alt="prageeth23" /> </p>
+<h1 align="center">  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 65px></picture> Hi, I'm Prageeth kaushalya</h1>
 
 ---
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
@@ -31,3 +30,12 @@ Prageeth's GitHub Activity Graph
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prageeth23&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Prageeth23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <br>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prageeth23" alt="Prageeth23" />
+    <a href="https://github.com/Prageeth23/"><img src="https://img.shields.io/github/followers/Prageeth23?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/Prageeth23/"><img src="https://img.shields.io/github/last-commit/Prageeth23/Prageeth23?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
+
+---
