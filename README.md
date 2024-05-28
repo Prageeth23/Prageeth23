@@ -24,8 +24,7 @@
 <a href="https://instagram.com/prageeeth__kaushalya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prageeeth__kaushalya" height="30" width="40" /></a>
 </p>
 <br>
-
-[Prageeth's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Prageeth23=tokyonight)]
+Prageeth's GitHub Activity Graph
 
 | ![Prageeth's github stats](https://github-readme-stats.vercel.app/api?username=Prageeth23&show_icons=true&theme=tokyonight) | ![Prageeth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prageeth23&theme=tokyonight) |
 | --- | --- |
